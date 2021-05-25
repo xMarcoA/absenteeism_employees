@@ -28,7 +28,10 @@ Age vs Probability:
 screenshots:
 
 dashboard
+![Bildschirmfoto 2021-05-23 um 19 30 01](https://user-images.githubusercontent.com/76050281/119494059-2d096580-bd61-11eb-856d-0ca4f3f59986.png)
 
 data _preprocessing
+![Bildschirmfoto 2021-05-25 um 12 49 30](https://user-images.githubusercontent.com/76050281/119494096-3561a080-bd61-11eb-900e-ddd65c5cab77.png)
 
 prediction
+![Bildschirmfoto 2021-05-25 um 13 03 26](https://user-images.githubusercontent.com/76050281/119494116-3abeeb00-bd61-11eb-88a3-075a48914d71.png)
