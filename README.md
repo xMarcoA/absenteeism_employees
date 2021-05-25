@@ -1,4 +1,4 @@
-Task: Analyse under which condition an employee absenteeism more than 3 hours
+Task: Analyse under which condition an employee absent for more then 3 hours
 
 data _preprocessing:
 	- data wrangling
